@@ -1,0 +1,7 @@
+chromedriver.exe
+/env
+/.vscode
+/.pytest_cache
+/allure-2.19.0
+/my_allure_results
+/__pycache__
