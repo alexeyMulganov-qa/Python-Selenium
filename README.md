@@ -5,4 +5,4 @@ Allure Report для Windows можно скачать отсюда: https://clc
 **Распакованный** каталог нужно разместить рядом с папкой, в которой создаются тесты  
 В Windows нужно в папке `allure\bin` запустить файл `allure.bat`  
 
-Необходимые библиотеки: `pytest, selenium, webdriver_manager, allure-pytest`  
+Необходимые библиотеки: `pytest`, `selenium`, `webdriver_manager`, `allure-pytest`  
